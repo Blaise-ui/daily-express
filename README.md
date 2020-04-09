@@ -1,16 +1,16 @@
 # daily-express
-Atividade frontend TOTI
+Activity frontend TOTI
 
 <! DOCTYPE html >
-< html  lang = " pt-BR " >
+< html  lang = " en-EN " >
 < cabeça >
     < meta  charset = " UTF-8 " >
-    < meta  name = " viewport " content = " width = largura do dispositivo, escala inicial = 1.0 " >
+    < meta  name = " viewport " content = " width = spread of gadge, escalate initial = 1.0 " >
     < title > Documento </ title >
 </ cabeça >
 < corpo >
     < cabeçalho >
-                < h1 > Página inicial </ h1 >
+                < h1 > Page initial </ h1 >
                 < nav >
                     < ul >
                         < Li > < a  href = " / " > Boris Johnson </ a > </ li >
@@ -27,29 +27,29 @@ Atividade frontend TOTI
     < principal >
         < seção >
             < artigo >
-                < figura > </ figura >
-                < div > Política </ div >
+                < style > </ figura >
+                < div > Political </ div >
                 < h3 > Laura Kuenssberg da BBC conforma Lib Dmes´jo 17,4 milhões de eleitores </ h3 >
                 < Div > BBC News editor de política Laura Kuenssberg conforonted Jo Swinson mais </ div >
-                < time  datetime = " 2020-02-02 " > 02 de novembro </ time >
+                < time  datetime = " 2020-02-02 " > 02 de november </ time >
 
             </ artigo >
 
             < artigo >
-                < figura > </ figura >
-                < div > Economia </ div >
+                < style > </ image >
+                < div > Economy </ div >
                 < h3 > Linds Hoyle fúria: como o novo orador remanesceu permanecem MPs para .. </ h3 >
                 < div > Linds Hoyle foi ontem escolhido pelos deputados como o próximo orador da casa </ div >
                 < time  datetime = " 2020-02-02 " > 02 de novembro </ time >
 
-            </ artigo >
-        </ seção >
+            </ article >
+        </ section >
 
-        < aparte >
-            < h2 > Vive </ h2 >
+        < apart >
+            < h2 > live </ h2 >
                 < ul >
                     < li >
-                        < h3 > Finanças </ h3 >
+                        < h3 > Finance </ h3 >
                         < p >
                             Lorem ipsum dolor sente-se entre os dois membros da elite. 
                             Itaque minima ab consequuntur esse eveniet consectetur rerum, 
